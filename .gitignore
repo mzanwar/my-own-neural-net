@@ -1,0 +1,7 @@
+_Store
+        .idea/
+        __pycache__/
+        mnist/.DS_Store
+        mnist/mnist_train_60k.csv
+        quickdraw/
+        trained_anns/
